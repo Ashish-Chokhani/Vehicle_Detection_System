@@ -81,8 +81,8 @@ Interactive GUI features:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
-   cd <repo_directory>
+   git clone https://github.com/Ashish-Chokhani/Vehicle_Detection_System.git
+   cd Vehicle_Detection_System
    ```
 2. Run the application:
    ```bash
@@ -122,7 +122,7 @@ Interactive GUI features:
 
 
 ## 🚨 Don't forget to check out this amazing report for more insights into the project!
-- [Project Presentation (PDF)](https://github.com/Ashish-Chokhani/GrammarML-EduAssessment/blob/main/docs/BTP_report2.pdf)
+- [Project Presentation (PDF)](https://github.com/Ashish-Chokhani/Vehicle_Detection_System/blob/main/docs/Report.pdf)
 
 ## 🤝 Contributions
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
@@ -137,4 +137,4 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## License
 
-This project is licensed under the Team Visionary.
+This project is licensed under the Team Visionary Coders.
