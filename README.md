@@ -6,7 +6,7 @@
 
 ---
 
-## Project Overview
+## 📋 Project Overview
 
 This project focuses on real-time **Vehicle Detection and Tracking** to enhance traffic flow analysis. Using advanced digital image processing techniques, we aim to improve the accuracy of vehicle detection, classification, and tracking for efficient traffic monitoring.
 
@@ -17,7 +17,7 @@ Key features include:
 
 ---
 
-## Directory Structure
+## 👨‍💻 Directory Structure
 
 ```
 ├── DIP_Project_Proposal.pdf   # Initial project proposal
@@ -43,7 +43,7 @@ Key features include:
 
 ---
 
-## Features
+## 🚀 Features
 
 ### 1. Vehicle Detection
 - **Background Modeling**: Moving average method with Gaussian smoothing for robust background subtraction.
@@ -119,6 +119,14 @@ Interactive GUI features:
 - Add more robust vehicle classification features.
 
 ---
+
+
+## 🚨 Don't forget to check out this amazing report for more insights into the project!
+- [Project Presentation (PDF)](https://github.com/Ashish-Chokhani/GrammarML-EduAssessment/blob/main/docs/BTP_report2.pdf)
+
+## 🤝 Contributions
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
+
 
 ## References
 
